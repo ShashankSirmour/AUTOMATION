@@ -1,7 +1,4 @@
-# WHATSAPP AUTOMATION
-### whatsapp automation in desktop to automate messages 
-
-
+# AUTOMATION WITH PYTHON
 
 ##HOW TO USE
 ###put cromedriver in "C:\Users\KIIT\chromedriver.exe"
