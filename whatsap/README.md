@@ -7,3 +7,5 @@
 3. user input - array and frequency of message
 
 4. adding shedule to send messages
+
+5. background process and time sheduled task
