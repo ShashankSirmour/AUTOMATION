@@ -36,7 +36,7 @@ for i in range(b):
     ac.send_keys(c+keys.Keys.ENTER).perform()
 """
 
-yourquote
+
 action=action_chains.ActionChains(driver)
 driver.implicitly_wait(10)
 time.sleep(2)
